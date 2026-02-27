@@ -1,4 +1,4 @@
-import numpy as np
+git import numpy as np
 
 class SignalGenerator:
     @staticmethod
